@@ -1,0 +1,21 @@
+
+.button{
+  margin-top: 24px;
+  width: 150px;
+}
+
+.container{
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+.input{
+  width: 200px;
+}
+
+.todoContainer{
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #ccc;
+  width: 500px;
+}
